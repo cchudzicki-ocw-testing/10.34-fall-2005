@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec47.pdf
 uid: f3de7d95-474e-463a-15ca-22a8c48b2638
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

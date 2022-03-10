@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecturenotes134.pdf
 uid: 775f3f9b-c0e7-06e9-6c22-7d7bc016b222
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

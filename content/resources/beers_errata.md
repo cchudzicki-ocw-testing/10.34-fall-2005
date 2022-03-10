@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: beers_errata.pdf
 uid: 87bd760b-16d6-7ea3-4663-0d8c843d86f2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec35.pdf
 uid: 619deec1-c9e0-0036-5276-243d75ad110c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

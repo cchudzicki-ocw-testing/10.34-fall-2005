@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: df92df30-f9d1-d59c-9c77-85b077953634
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Review materials courtesy of Mark Styczynski and Ben Wang, Course TAs. Used with permission.

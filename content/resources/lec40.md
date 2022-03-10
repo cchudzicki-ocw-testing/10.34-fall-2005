@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec40.pdf
 uid: 2e8d0dd1-0713-4218-912e-928197d6e013
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

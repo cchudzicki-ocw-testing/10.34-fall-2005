@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec06.pdf
 uid: ffc60d32-c32c-23f7-5245-f5335d6de768
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

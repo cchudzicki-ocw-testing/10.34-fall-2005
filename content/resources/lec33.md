@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec33.pdf
 uid: 014f7c8e-729c-fa88-feeb-a11a0699132c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

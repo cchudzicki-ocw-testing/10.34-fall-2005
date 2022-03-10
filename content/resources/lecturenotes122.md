@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecturenotes122.pdf
 uid: 8f9885ab-e456-fb32-6dc1-8470551eae2e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

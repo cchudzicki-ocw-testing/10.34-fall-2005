@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec43.pdf
 uid: 91b7efe2-7f2c-d278-dc0c-25207b481196
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

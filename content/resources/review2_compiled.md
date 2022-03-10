@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: review2_compiled.pdf
 uid: fd63e704-0266-ba7b-2915-8a4488d71c42
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

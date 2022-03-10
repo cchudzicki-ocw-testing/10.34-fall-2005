@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec42.pdf
 uid: 7305364a-e2ba-1da3-f73f-7927e28d844d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

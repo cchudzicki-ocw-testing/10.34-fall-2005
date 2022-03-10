@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 8f7a6c3f-ae8e-d368-a734-bbe5d06c21b7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These lecture notes are from the version of the course taught during Fall 2001.

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec19.pdf
 uid: 384a8872-25bc-d84b-d4f7-22634fd2f42e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

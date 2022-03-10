@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec24.pdf
 uid: fb200674-e60a-f086-056b-68a5297566eb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

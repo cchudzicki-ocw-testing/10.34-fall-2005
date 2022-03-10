@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec18.pdf
 uid: b3ae5348-6c7c-6bd5-5b1f-a97d3f049d8b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

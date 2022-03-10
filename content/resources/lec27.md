@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec27.pdf
 uid: d4de34ae-96c5-e08b-4b7d-e9b3e7374cc8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

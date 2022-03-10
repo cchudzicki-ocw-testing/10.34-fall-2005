@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec38.pdf
 uid: c30a4ded-c8c0-4870-e11d-e386e1e2954f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

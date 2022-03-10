@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecturenotes121.pdf
 uid: e3a017a2-cb48-dce8-c035-b6138f934cdd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

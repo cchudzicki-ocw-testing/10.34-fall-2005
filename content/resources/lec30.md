@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec30.pdf
 uid: f6aa2b46-36ee-0f9e-c477-ec8e22fa4901
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

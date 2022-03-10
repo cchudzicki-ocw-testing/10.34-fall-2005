@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec39.pdf
 uid: 355a0b2b-8c85-a544-0025-2de67f3559fd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

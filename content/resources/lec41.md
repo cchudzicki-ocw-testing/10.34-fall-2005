@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec41.pdf
 uid: 42b32eca-f11a-c0ac-1027-6f502c2328b1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

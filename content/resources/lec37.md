@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec37.pdf
 uid: 1b99aafb-0337-a6cc-7db8-bf5156ccbf58
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

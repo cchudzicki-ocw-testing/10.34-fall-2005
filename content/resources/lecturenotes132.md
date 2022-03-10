@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecturenotes132.pdf
 uid: a5dbd206-95c1-f652-65c1-ae3b9ae9c363
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

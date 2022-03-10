@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw1_soln.pdf
 uid: 9df2695f-be77-536d-c5fa-5fdd0bf3346c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

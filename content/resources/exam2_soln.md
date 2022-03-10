@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: exam2_soln.pdf
 uid: c36bada5-de30-808b-198e-97913ffccdfd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

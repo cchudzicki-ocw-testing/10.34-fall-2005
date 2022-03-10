@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecturenotes141.pdf
 uid: 387957a9-bf14-f34d-000b-dc370a355ee4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

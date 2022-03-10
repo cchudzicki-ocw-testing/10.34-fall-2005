@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec45.pdf
 uid: 80e9b25f-9e95-86ae-df84-63a1e61ba3d4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

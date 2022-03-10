@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec32.pdf
 uid: 3f7953d4-5997-de88-46ea-d510e80d9dd5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

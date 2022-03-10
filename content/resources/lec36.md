@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec36.pdf
 uid: fe30eb19-9f75-5c45-8e3e-f7d424e58b8e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

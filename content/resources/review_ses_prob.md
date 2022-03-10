@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: review_ses_prob.pdf
 uid: 439d24a2-7d51-c0f5-bafd-8b0f7e6905e1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

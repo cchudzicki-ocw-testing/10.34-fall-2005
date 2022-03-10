@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec31.pdf
 uid: e025be60-3766-8890-bdcb-4e6f09829d9c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

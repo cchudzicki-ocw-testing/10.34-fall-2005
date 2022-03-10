@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: e2770314-ef52-7c76-ff84-a0448305091c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecturenotes135.pdf
 uid: aa971db3-7321-955c-b1d1-48d4e997527e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

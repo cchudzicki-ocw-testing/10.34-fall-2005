@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw2soln_grading.pdf
 uid: f4282f0a-5044-bb4b-b475-9da8fcb1bf62
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -17,4 +17,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ch7ch8_review.pdf
 uid: 3525fc20-9b11-0e1a-a493-03d9fbd0b871
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
