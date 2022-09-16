@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Related file for bayesian statistics and parameter estimation.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/1d64848d00fb38b3de349cf308e8b58d_sim_anneal_MRSL.m
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/1d64848d00fb38b3de349cf308e8b58d_sim_anneal_MRSL.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,7 @@ title: sim_anneal_MRSL.m
 uid: 1d64848d-00fb-38b3-de34-9cf308e8b58d
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Related file for bayesian statistics and parameter estimation.

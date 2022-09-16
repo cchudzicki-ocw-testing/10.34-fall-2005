@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section covers review materials, and exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -16,7 +17,7 @@ Review materials courtesy of Mark Styczynski and Ben Wang, Course TAs. Used with
 Review Materials
 ----------------
 
-*   Chapters 7 and 8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3525fc20-9b11-0e1a-a493-03d9fbd0b871 "PDF" %}})
+*   Chapters 7 and 8 ({{% resource_link 3525fc20-9b11-0e1a-a493-03d9fbd0b871 "PDF" %}})
     
 *   Exam 2 Review Session ({{% resource_link fd63e704-0266-ba7b-2915-8a4488d71c42 "PDF" %}})
     

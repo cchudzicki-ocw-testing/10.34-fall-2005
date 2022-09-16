@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section cintains problem files and their solution files along with
+  the related files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -44,7 +46,7 @@ PSet 1
 MATLAB® Programming, Chapter 10, Problems 1-5
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9df2695f-be77-536d-c5fa-5fdd0bf3346c "PDF" %}})
+({{% resource_link 9df2695f-be77-536d-c5fa-5fdd0bf3346c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -74,7 +76,7 @@ PSet 3
 Nonlinear Algebraic Systems ({{% resource_link 67e1939b-3e24-ba2f-37c2-132b5acf71d6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d2565ea9-fa02-479f-d22e-5e8a6efad29c "PDF" %}})
+({{% resource_link d2565ea9-fa02-479f-d22e-5e8a6efad29c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 calc\_f\_ex1.m ({{% resource_link f8011ffb-5f6a-986c-ea14-1b46e0335b69 "M" %}}), CSTR\_2D\_NAE.m ({{% resource_link 0f5af257-bc8f-85f2-580a-8e8de00fec2e "M" %}}), CSTR\_SS\_ex1.m ({{% resource_link 8ae9ddc9-c556-eaf2-30f7-c2a6dadb2f4c "M" %}}), Newton\_2D\_test.m ({{% resource_link 34cb8a3a-a5f1-0d27-a574-da8180517b18 "M" %}}), polycond\_CSTR.m ({{% resource_link 1154ffe0-c93a-0a3b-8cd7-9665103483ed "M" %}}), polymer\_flow\_1D.m ({{% resource_link 9056baf7-ef7f-5174-43e7-68394a5fe3de "M" %}}), reduced\_Newton.m ({{% resource_link 32e7edce-b650-b0a8-807a-170f418cf51c "M" %}}), search\_bifurcation.m ({{% resource_link 7a3bfe3a-b3e0-cf9a-acec-459deb7c681e "M" %}})
@@ -134,7 +136,7 @@ PSet 7
 Boundary Value Problems ({{% resource_link 5944f220-26bf-3ca3-b890-7ff74b1a2399 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ced93377-4f30-e440-a4bf-07f7c1290c74 "PDF 1" %}})  
+({{% resource_link ced93377-4f30-e440-a4bf-07f7c1290c74 "PDF 1" %}})  
   
 ({{% resource_link c67a5026-a2e0-bf0c-2cab-4b7a06fecbcf "PDF 2" %}})
 {{< tdclose >}}
@@ -166,7 +168,7 @@ PSet 9
 Fitting a Model to a Single Set of Data ({{% resource_link f399f032-763e-e32e-72a0-10510c92406b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 811353e0-f678-f605-3827-8e1b61799297 "PDF" %}})
+({{% resource_link 811353e0-f678-f605-3827-8e1b61799297 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 batch\_kinetics\_dynamics\_ex.m ({{% resource_link 5d3cb745-2334-445f-739c-4cbaec1bb8df "M" %}}), Bayes\_1D\_HPD\_MR.m ({{% resource_link c945ca17-043b-9adb-2d8b-e771da4c0a81 "M" %}}), Bayes\_1D\_HPD\_SR.m ({{% resource_link 0480be85-77b5-02b9-fd98-67ed71cdc562 "M" %}}), Bayes\_2D\_HPD\_MR.m ({{% resource_link f85f9cf3-022a-548b-3b71-c4e8ad0c5104 "M" %}}), Bayes\_2D\_HPD\_SR.m ({{% resource_link 3b294188-945e-2621-1fc9-9d729ca1e564 "M" %}}), Bayes\_MCMC\_1Dmarginal\_MR.m ({{% resource_link 61a19e65-5d17-900b-c0d1-6d2336579d5a "M" %}}), Bayes\_MCMC\_1Dmarginal\_MRSL.m ({{% resource_link 70c28b5c-b43d-b93d-2a2e-393a1e2b3698 "M" %}}), Bayes\_MCMC\_1Dmarginal\_SR.m ({{% resource_link 381ab3bd-64cc-89a0-1a5f-b2ac78949477 "M" %}}), Bayes\_MCMC\_2Dmarginal\_MR.m ({{% resource_link 982a8a60-abff-1b7b-bcf5-de160930df7b "M" %}}), Bayes\_MCMC\_2Dmarginal\_MRSL.m ({{% resource_link 949d50e6-af10-2bb1-4d7b-92d6d2961652 "M" %}}), Bayes\_MCMC\_2Dmarginal\_SR.m ({{% resource_link b4e4ef7e-e0b3-bef3-ac73-abf50d08ca78 "M" %}}), Bayes\_MCMC\_pred\_MR.m ({{% resource_link fdfd738f-614a-22a1-ee95-efbd89763509 "M" %}}), Bayes\_MCMC\_pred\_MRSL.m ({{% resource_link 2bac0189-4aac-ff41-4476-bfc9e3cb1209 "M" %}}), Bayes\_MCMC\_pred\_SR.m ({{% resource_link 8c90560a-ba4d-3928-845e-e707f3c22c0a "M" %}}), calc\_g\_1Dinterval.m ({{% resource_link 7368843f-0aa0-9d37-5a39-5d901c345bd6 "M" %}}), calc\_MRSL\_posterior.m ({{% resource_link 7b989f5f-c231-cfea-9ca7-9855d48ba0a9 "M" %}}), calc\_yhat\_kinetic\_ex1.m ({{% resource_link 0eb436dd-6fe0-7a50-8b62-43237400b60d "M" %}}), calc\_yhat\_linear\_model.m ({{% resource_link 83544c89-d089-e9b1-ce79-86988050af72 "M" %}}), calc\_Yhat\_reaction\_ex\_dynamic\_MR.m ({{% resource_link d2737a8f-7353-ca6f-72a8-dcc6219a5c3d "M" %}}), sim\_anneal\_MR.m ({{% resource_link 90e10350-fcc0-25dc-1fe9-61b7ffdf4458 "M" %}}), sim\_anneal\_MRSL.m ({{% resource_link 1d64848d-00fb-38b3-de34-9cf308e8b58d "M" %}})

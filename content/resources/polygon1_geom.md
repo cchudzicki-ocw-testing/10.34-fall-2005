@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Related file for boundary value problems.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/aaa41ec61af7719af0a49508ac75b3b5_polygon1_geom.m
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/aaa41ec61af7719af0a49508ac75b3b5_polygon1_geom.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,7 @@ title: polygon1_geom.m
 uid: aaa41ec6-1af7-719a-f0a4-9508ac75b3b5
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Related file for boundary value problems.

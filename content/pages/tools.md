@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains 8 tutorials on MATLAB.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

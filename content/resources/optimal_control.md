@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Related file for numerical optimization.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/447b0e375ee46d34c2da2e361fc1787c_optimal_control.m
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/447b0e375ee46d34c2da2e361fc1787c_optimal_control.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,7 @@ title: optimal_control.m
 uid: 447b0e37-5ee4-6d34-c2da-2e361fc1787c
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Related file for numerical optimization.

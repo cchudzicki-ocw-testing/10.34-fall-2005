@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Related file for numerical optimization.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c7f531c88bf2d4599d7a081496b271d6_optimal_design_CSTR.m
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c7f531c88bf2d4599d7a081496b271d6_optimal_design_CSTR.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,7 @@ title: optimal_design_CSTR.m
 uid: c7f531c8-8bf2-d459-9d7a-081496b271d6
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Related file for numerical optimization.

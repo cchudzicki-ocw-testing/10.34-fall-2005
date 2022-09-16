@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/6c68a7278ef3554a99b7d44933cf3a0e_global_min_cost_func.m
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/6c68a7278ef3554a99b7d44933cf3a0e_global_min_cost_func.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,6 @@ title: global_min_cost_func.m
 uid: 6c68a727-8ef3-554a-99b7-d44933cf3a0e
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
